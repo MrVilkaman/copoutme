@@ -1,0 +1,37 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/release
+/captures
+*/build/*
+
+.idea/
+
+*.apk
+*.log
+output.json
+
+Translation script/__pycache__/strings_converter.cpython-36.pyc
+
+Translation script/client_secret_480814324061-lugjacqo54uqrgv9aof10720h7929cbg.apps.googleusercontent.com.json
+
+keystore.properties
+/Translation script/Skyeng-strings.zip
+
+fastlane/report.xml
+
+
+
+logcat\.txt
+
+# python
+/.mypy_cache
+
+# (ae) мне нада
+kids1/
+
+env.sh
+
+app/local.properties
